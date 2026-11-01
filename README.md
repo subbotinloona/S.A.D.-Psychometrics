@@ -11,3 +11,11 @@ Timestamp Priority: November 1, 2026
 АНГЛИЙСКИЙ ВАРИАНТ (ENGLISH VERSION)
 
 The S.A.D. (System of Automatic Diagnostics) psychometric framework was created as an inevitable response to the total transformation of modern human lifestyle. Traditional 20th-century testing methods (such as MMPI, the Beck Depression Inventory, and Wechsler scales) are hopelessly outdated and demand a radical overhaul. Developed for a completely different technological era, they are now fundamentally disconnected from reality. Legacy questionnaires fail to accurately map personality because they ignore modern dopaminergic loops, digital environments, new employment formats, and altered circadian rhythms. Furthermore, the classical approach continues to treat a human merely as a static, depersonalized research object, completely ignoring the dynamics of their adaptation to the current environment.
+# S.A.D. Core Release: Personality Differential Mapping Matrix  
+
+# S.A.D. Core Release: Personality Differential Mapping Matrix  
+
+**Project Name:** S.A.D. (System of Automatic Diagnostics)
+**System Architecture & Methodology by:** Aleksandr D. Subbotin (GitHub: subbotinloona)
+**Verification Level:** Verified Profound Genius (EPI WAIS Peak Score: 160 IQ)
+**Timestamp Priority:** November 1, 2026
