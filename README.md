@@ -20,4 +20,4 @@ The S.A.D. (System of Automatic Diagnostics) psychometric framework was created 
 **Project Name:** S.A.D. (System of Automatic Diagnostics)
 **System Architecture & Methodology by:** Aleksandr D. Subbotin (GitHub: subbotinloona)
 **Verification Level:** Verified Profound Genius (EPI WAIS Peak Score: 160 IQ)
-**Timestamp Priority:** November 1, 2026
+**Timestamp Priority:** November 1, 2026 © 2026 Subbotin A. D. (subbotinloona). All rights reserved.
