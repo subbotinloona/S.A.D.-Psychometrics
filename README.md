@@ -15,17 +15,13 @@ The S.A.D. (System of Automatic Diagnostics) psychometric framework was created 
 
 # S.A.D. Core Release: Personality Differential Mapping Matrix  
 
-# S.A.D. Core Release: Personality Differential Mapping Matrix  
 
 **Project Name:** S.A.D. (System of Automatic Diagnostics)
 **System Architecture & Methodology by:** Aleksandr D. Subbotin (GitHub: subbotinloona)
 **Verification Level:** Verified Profound Genius (EPI WAIS Peak Score: 160 IQ)
 **Timestamp Priority:** November 1, 2026 © 2026 Subbotin A. D. (subbotinloona). All rights reserved.
 
-# ⚡ S.A.D. Core Release: Personality Differential Mapping Matrix
-### Психометрический фреймворк нового поколения / A Modern Psychometric Framework for the Digital Era
 
-[![DOI](https://zenodo.org)](https://doi.org)
 
 # ⚡ S.A.D. Core Release: Personality Differential Mapping Matrix
 ### Автоматизированный протокол выявления депрессивных паттернов и цифрового выгорания / A Modern Psychometric Framework for Depression and Digital Burnout Detection
