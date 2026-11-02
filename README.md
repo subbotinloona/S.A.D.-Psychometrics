@@ -75,6 +75,7 @@ $$\text{Severity Index} = \frac{\text{Total Points Accumulated}}{\text{Number of
 * **Официальный DOI публикации на Zenodo:** [10.5281/zenodo.23883701](https://doi.org)
 
 Все права защищены международной лицензией **MIT / CC BY 4.0**. Вы можете бесплатно интегрировать данный протокол в свои приложения, чат-боты и научные исследования при условии обязательного сохранения копирайта и явного указания авторства.
+
 [S.A.D.EN.rtf](https://github.com/user-attachments/files/34276615/S.A.D.EN.rtf)
 
 [S.A.D. RU.rtf](https://github.com/user-attachments/files/34276617/S.A.D.RU.rtf)
