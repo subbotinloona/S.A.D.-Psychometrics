@@ -25,4 +25,5 @@ The S.A.D. (System of Automatic Diagnostics) psychometric framework was created 
 
 
 [![DOI](https://zenodo.org)](https://doi.org)
-<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI"></a>
+[<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI"></a>
+](https://zenodo.org/records/23857743)
